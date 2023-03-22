@@ -734,9 +734,20 @@ hr {
 
 .forpic > div > div > img {
     float: left; 
-    height: 6em; 
-    width: auto; 
+    height: auto; 
+    width: 5em; 
     margin: 3px 15px 6px 0px;
+}
+
+.forpic2 > div > div {
+	padding: 10px 10px 8px 0px;
+	vertical-align: top;
+}
+
+.forpic2 > div > div > img {
+    float: left; 
+    height: auto; 
+    margin-top: 3px;
 }
 
 .fam > div > div {
